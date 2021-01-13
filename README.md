@@ -1,3 +1,5 @@
+[![calculadora.png](https://i.postimg.cc/L8V4Hcnf/calculadora.png)](https://postimg.cc/BjXfpw5Q)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
